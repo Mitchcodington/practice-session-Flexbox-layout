@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Righteous&display=swap');
+
+
+
+/* #################################################################### */
+
+html { background-image: linear-gradient( rgba(0, 0, 0, 0.5),
+       rgba(0, 0, 0, 0.5) ),url("opt.2.jpg");
+       background-size: cover;
+       background-position: center;
+       margin:0px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       font-family: poppins;}
+
+/* ................................................................... */
+     
+h1 {  border: solid white 1px;
+      background: white;
+      width: 580px;
+      text-align: center;
+      font-size: 100px;
+      font-weight: bold;
+      padding-bottom: 20px;
+      margin-left: 150px;
+      margin-top: 250px; }
+
+/* .................................................................. */
+     
+h2 {  font-weight: bold;}
+
+/* .................................................................. */
+
+p  {  font-size: 15px;}
+
+/* .................................................................. */
+
+.text{ color: white; font-size: 25px;}
+
+/* ................................................................. */
+
+#text {font-size: 20px; margin-left: 150px; margin-right: 700px;}
+
+/* ................................................................ */
+
+.mid {margin-left: 150px; padding-top: 30px;}
+
+/* ............................................................... */
+
+#ways {font-weight: bold;}
+
+/* ............................................................... */
+
+.head {font-weight: bold;font-size: 25px;}
+
+/* .............................................................. */
+
+.person { width: 315px;
+          height: 250px;
+          padding-top: 30px;
+          background: rgb(247, 67, 67);
+          margin-left: 150px;
+          padding-left: 20px;}
+
+/* ............................................................... */
+       
+.online { width: 315px;
+          height: 250px;
+          padding-top: 30px;
+          background: rgb(247, 67, 67);
+          padding-left: 20px;}
+
+ /* ............................................................. */
+
+ .phone { width: 315px;
+         height: 250px;
+         padding-top: 30px;
+         background: rgb(247, 67, 67);
+         padding-left: 20px;}
+
+/* .............................................................. */
+
+.main { display: flex;
+        justify-content: space-between;
+        margin-right: 150px;
+        margin-top: 20px;
+        text-align: left;}
+
+/* ............................................................. */
+
+button { height:40px ;
+         width: 110px;
+         text-align: center;
+         background-color: transparent;
+         border: solid 1px;}
+
+/* ############################################################# */
